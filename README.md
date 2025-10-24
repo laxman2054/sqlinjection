@@ -30,24 +30,29 @@ Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 - Identify IP address using ifconfig in Metasploitable2
 
 
-
+<img width="1016" height="696" alt="image" src="https://github.com/user-attachments/assets/ba7f43d0-17e8-42c5-9783-3a4566c67bdf" />
 
 - Use the above ip address to access the apache webserver of Metasploitable2 from kali linux. In Kali Linux use the ip address in a web browser.
 
+![WhatsApp Image 2025-10-10 at 21 36 45_6bf3ce67](https://github.com/user-attachments/assets/441a7920-2576-43a6-b058-67150c2c4618)
 
 
 - Select Multidae from the menu listed as shown above. You will get the page as displayed below:
 
+  <img width="1919" height="1079" alt="Screenshot 2025-10-10 135821" src="https://github.com/user-attachments/assets/1343a5f0-b25d-4dd4-99cb-a690fc3d3566" />
 
 
 - Click on the menu Login/Register and register for an account
 
+![WhatsApp Image 2025-10-10 at 21 36 45_386f465e](https://github.com/user-attachments/assets/1645e0c0-0b93-492e-ae42-ff5c344c6e13)
 
 - Click on the link “Please register here”
 
+![WhatsApp Image 2025-10-10 at 21 36 45_386f465e](https://github.com/user-attachments/assets/80bb1de5-2eaa-4254-b38d-4fd15da3e8fb)
 
 - Click on “Create Account” to display the following page:
 
+![WhatsApp Image 2025-10-10 at 21 36 45_386f465e](https://github.com/user-attachments/assets/05d71602-5c62-4b92-b76d-732efa7af758)
 
 
 - The login structure we will use in our examples is straightforward. 
